@@ -1,0 +1,11 @@
+
+[[{"key":0,"list":[{"itemNo":0,"name":"kasjdfajsdfh","count":2},{"itemNo":1,"name":"aksjdhkajshf","count":1}]},{"key":5,"list":[{"itemNo":0,"name":"akjsdfhakjsdh","count":8}]},{"key":10,"list":[{"itemNo":0,"name":"","count":1},{"itemNo":1,"name":"","count":3},{"itemNo":2,"name":"as","count":5}]},{"key":7,"list":[]},{"key":12,"list":[]},{"key":17,"list":[]}], [{"key":0,"list":[{"itemNo":0,"name":"Banana","count":10},{"itemNo":1,"name":"Apple","count":5}]},{"key":5,"list":[{"itemNo":0,"name":"Tissue","count":2}]},{"key":2,"list":[{"itemNo":0,"name":"Mop","count":1}]},{"key":7,"list":[{"itemNo":0,"name":"Facewash","count":3}]},{"key":14,"list":[{"itemNo":0,"name":"Shampoo","count":3}]},{"key":19,"list":[{"itemNo":0,"name":"pen","count":20}]}]]
+
+
+ye add kiya hai
+
+
+jo sab add kiya hai: searching in both the available shops and in the shop
+changing availability on adding to card
+
+done ho gya
